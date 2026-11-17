@@ -239,16 +239,15 @@ Additional planned enhancements:
 
 **DEPI Data Engineering Graduation Project — July 2026**
 
-| Name | Role |
-|---|---|
-| Mohamed Ahmed Arafa | Project Introduction & Architecture |
-| Ahmed Samir Saad | Bronze & Silver Pipeline |
-| Mohamed Abdelhakim | Gold Layer, Dashboard & Orchestration |
-| Jamal Hany Jamal | Gold Layer, ML Model — Design & Training | 
-| Yousif Amin | ML Model — Evaluation & Results |
+| Name | Role | GitHub |
+|---|---|---|
+| Mohamed Ahmed Arafa | Project Introduction & Architecture | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ARAFA-WEB1) |
+| Ahmed Samir Saad | Bronze & Silver Pipeline | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SAMIRJR002) |
+| Mohamed Abdelhakim | Gold Layer, Dashboard & Orchestration | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mohammed14906) |
+| Jamal Hany Jamal | Gold Layer, ML Model — Design & Training | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jamal005csit) |
+| Yousif Amin | ML Model — Evaluation & Results | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](N/A) |
 
 ---
-
 
 # Review Score Engine
 
